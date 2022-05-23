@@ -20,7 +20,7 @@ namespace NetworkLog
             NetworkInterface[] interfaces = NetworkInterface.GetAllNetworkInterfaces();
             foreach (NetworkInterface iface in interfaces)
             {
-                //Change NIC1 to other network interface name you want to monitor
+                //Change Ethernet to other network interface name you want to monitor
                 if (iface.Name == "Ethernet")
                 {
                     var init_received = iface.GetIPv4Statistics().BytesReceived;
