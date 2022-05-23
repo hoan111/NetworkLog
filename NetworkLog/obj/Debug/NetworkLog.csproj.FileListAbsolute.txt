@@ -1,0 +1,8 @@
+E:\Code\.NET_project\NetworkLog\NetworkLog\bin\Debug\NetworkLog.exe.config
+E:\Code\.NET_project\NetworkLog\NetworkLog\bin\Debug\NetworkLog.exe
+E:\Code\.NET_project\NetworkLog\NetworkLog\bin\Debug\NetworkLog.pdb
+E:\Code\.NET_project\NetworkLog\NetworkLog\obj\Debug\NetworkLog.csproj.AssemblyReference.cache
+E:\Code\.NET_project\NetworkLog\NetworkLog\obj\Debug\NetworkLog.csproj.SuggestedBindingRedirects.cache
+E:\Code\.NET_project\NetworkLog\NetworkLog\obj\Debug\NetworkLog.csproj.CoreCompileInputs.cache
+E:\Code\.NET_project\NetworkLog\NetworkLog\obj\Debug\NetworkLog.exe
+E:\Code\.NET_project\NetworkLog\NetworkLog\obj\Debug\NetworkLog.pdb
